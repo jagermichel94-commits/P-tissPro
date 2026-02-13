@@ -15,13 +15,7 @@
 </head>
 
 <body>
-
-<!-- ========================= -->
-<!-- TON CODE EXISTANT ICI 👇 -->
-<!-- ========================= -->
-
-<!-- colle ici tout ton ancien HTML
-     (ce qu’il y avait déjà dans ton fichier) -->{
+{
   "name": "PâtissPro",
   "short_name": "PatisPro",
   "start_url": "/P-tissPro/",
@@ -39,8 +33,6 @@
   ]
 }
 
-
-<!-- ========================= -->
 
 </body>
 </html>
