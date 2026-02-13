@@ -1,4 +1,27 @@
-{
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>PâtissPro</title>
+
+  <!-- Manifest PWA -->
+  <link rel="manifest" href="/P-tissPro/manifest.json">
+
+  <!-- Couleur Android -->
+  <meta name="theme-color" content="#c8873a">
+
+  <!-- Responsive mobile -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+<!-- ========================= -->
+<!-- TON CODE EXISTANT ICI 👇 -->
+<!-- ========================= -->
+
+<!-- colle ici tout ton ancien HTML
+     (ce qu’il y avait déjà dans ton fichier) -->{
   "name": "PâtissPro",
   "short_name": "PatisPro",
   "start_url": "/P-tissPro/",
@@ -15,3 +38,9 @@
     }
   ]
 }
+
+
+<!-- ========================= -->
+
+</body>
+</html>
